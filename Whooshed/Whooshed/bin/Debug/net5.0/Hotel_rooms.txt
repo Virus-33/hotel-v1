@@ -1,0 +1,11 @@
+101 Utility available
+201 Standart empty
+202 Superior empty
+203 Standart booked
+204 Corner booked
+205 Duplex occupied
+301 Honeymoon occupied
+302 Standart occupied
+303 DeLuxe empty
+304 Studio empty
+305 Duplex available

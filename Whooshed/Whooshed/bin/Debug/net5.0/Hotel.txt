@@ -1,0 +1,11 @@
+101 Utility booked
+201 Standrt empty
+202 Suprior empty
+203 Standrt booked
+204 Corner booked
+205 Duplex occupied
+301 Honeymn occupied
+302 Standrt occupied
+303 DeLuxe booked
+304 Studio booked
+305 Duplex booked

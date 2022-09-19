@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Whooshed": {
+      "commandName": "Project",
+      "commandLineArgs": "Hotel.txt"
+    }
+  }
+}
